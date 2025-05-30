@@ -48,8 +48,8 @@
 </head>
 <body>
     <header>
-        <h1>Dr. Louie</h1>
-        <p>Professioneller Mäsefänger mit zusätzlicher Qualifikation im Fledermausfang</p>
+        <h1>Prof. Dr. Max Mustermann</h1>
+        <p>PWissenschaftlicher Mitarbeiter bei ... </p>
     </header>
     <nav>
         <a href="#forschung">Forschung</a>
