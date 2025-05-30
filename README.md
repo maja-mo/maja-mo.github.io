@@ -49,7 +49,7 @@
 <body>
     <header>
         <h1>Prof. Dr. Max Mustermann</h1>
-        <p>PWissenschaftlicher Mitarbeiter bei ... </p>
+        <p>Wissenschaftlicher Mitarbeiter bei ... </p>
     </header>
     <nav>
         <a href="#forschung">Forschung</a>
