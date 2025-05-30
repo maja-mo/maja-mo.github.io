@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="de">
 <head>
     <meta charset="UTF-8">
@@ -48,8 +48,8 @@
 </head>
 <body>
     <header>
-        <h1>Dr. Max Mustermann</h1>
-        <p>Wissenschaftlicher Mitarbeiter im Bereich Digitale Innovation</p>
+        <h1>Dr. Louie</h1>
+        <p>Professioneller Mäsefänger mit zusätzlicher Qualifikation im Fledermausfang</p>
     </header>
     <nav>
         <a href="#forschung">Forschung</a>
